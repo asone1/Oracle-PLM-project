@@ -1,4 +1,4 @@
-# PLM-project
+# Oracle PLM-project
 
 The repository includes java files using Oracle Agile SDK to provide cutomized service for enterprises(with Agile PLM license)
 They should be deployed on PLM AP server.
